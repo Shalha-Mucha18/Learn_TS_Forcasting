@@ -1,4 +1,4 @@
-# Learn Forecast Notebook
+# Learn Forecast 
 
 This project is a simple, learning-focused notebook for time series forecasting
 using statistical models on a French bakery daily sales dataset.
